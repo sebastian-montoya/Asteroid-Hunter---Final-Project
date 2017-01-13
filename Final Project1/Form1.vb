@@ -1,8 +1,10 @@
 ﻿Option Strict On
+
 'Final Project 
 'Sebastian Montoya
 '5/12/2014
 'Asteroid Hunter
+
 Public Class Form1
     Dim tmrDirection(3), tmrAsteroid(5), tmrScorePopup(5), tmrShipShoot(3) As Timer
     Dim picAsteroid(5) As PictureBox
